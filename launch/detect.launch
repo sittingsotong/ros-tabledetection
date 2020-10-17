@@ -1,0 +1,6 @@
+<launch>
+    <node name="detect" pkg="rack" type="detect" output="screen">
+        <param name="file_path" value ="$(find rack)/data/rack_test/2019-02-27-19-35-19.bag" />
+    </node>
+
+</launch>

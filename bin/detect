@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+
+import rack.detect
+
+if __name__ == '__main__':
+    rack.detect.main()
+
