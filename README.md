@@ -80,4 +80,5 @@ While this solution is able to accurately detect the front legs of the rack, it 
 
 A possible improvement could possibly require more data that uses these different camera angles or lighting. Then using these data to create a machine learning algorithm that performs object detection on the data provided. 
 
-### Video demonstration
+### Short demonstration
+![](results.gif)
